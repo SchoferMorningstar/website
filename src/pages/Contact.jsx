@@ -12,7 +12,7 @@ export default function Contact() {
 
   const serviceID = "service_v7aktdq";
   const templateID = "template_pf2c8v9";
-  const publicKey = "";
+  const publicKey = import.meta.env.VITE_EMAIL_PUBLIC_KEY;
 
   function handleChange(e) {
     setFormData((prev) => ({ ...prev, [e.target.name]: e.target.value }));
