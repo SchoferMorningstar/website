@@ -42,47 +42,47 @@ export default function Home() {
         <h2 className="text-2xl font-semibold mb-4">Tech I Use</h2>
         <div className="flex flex-wrap gap-4 text-gray-700 dark:text-gray-300">
           <span className="bg-gray-100 dark:bg-gray-800 px-4 py-2 rounded inline-flex items-center gap-2">
-            <i class="devicon-react-original colored"></i>
+            <i className="devicon-react-original colored"></i>
             React
           </span>
           <span className="bg-gray-100 dark:bg-gray-800 px-4 py-2 rounded inline-flex items-center gap-2">
-            <i class="devicon-javascript-plain colored"></i>
+            <i className="devicon-javascript-plain colored"></i>
             JavaScript
           </span>
           <span className="bg-gray-100 dark:bg-gray-800 px-4 py-2 rounded inline-flex items-center gap-2">
-            <i class="devicon-tailwindcss-original colored"></i>
+            <i className="devicon-tailwindcss-original colored"></i>
             Tailwind CSS
           </span>
           <span className="bg-gray-100 dark:bg-gray-800 px-4 py-2 rounded inline-flex items-center gap-2">
-            <i class="devicon-nodejs-plain colored"></i>
+            <i className="devicon-nodejs-plain colored"></i>
             Node.js
           </span>
           <span className="bg-gray-100 dark:bg-gray-800 px-4 py-2 rounded inline-flex items-center gap-2">
-            <i class="devicon-vitejs-plain colored"></i>
+            <i className="devicon-vitejs-plain colored"></i>
             Vite
           </span>
           <span className="bg-gray-100 dark:bg-gray-800 px-4 py-2 rounded inline-flex items-center gap-2">
-            <i class="devicon-php-plain colored"></i>
+            <i className="devicon-php-plain colored"></i>
             PHP
           </span>
           <span className="bg-gray-100 dark:bg-gray-800 px-4 py-2 rounded inline-flex items-center gap-2">
-            <i class="devicon-html5-plain colored"></i>
+            <i className="devicon-html5-plain colored"></i>
             HTML
           </span>
           <span className="bg-gray-100 dark:bg-gray-800 px-4 py-2 rounded inline-flex items-center gap-2">
-            <i class="devicon-css3-plain colored"></i>
+            <i className="devicon-css3-plain colored"></i>
             CSS
           </span>
           <span className="bg-gray-100 dark:bg-gray-800 px-4 py-2 rounded inline-flex items-center gap-2">
-            <i class="devicon-sqldeveloper-plain colored"></i>
+            <i className="devicon-sqldeveloper-plain colored"></i>
             SQL
           </span>
           <span className="bg-gray-100 dark:bg-gray-800 px-4 py-2 rounded inline-flex items-center gap-2">
-            <i class="devicon-mysql-original colored"></i>
+            <i className="devicon-mysql-original colored"></i>
             MySQL
           </span>
           <span className="bg-gray-100 dark:bg-gray-800 px-4 py-2 rounded inline-flex items-center gap-2">
-            <i class="devicon-sqlite-plain colored"></i>
+            <i className="devicon-sqlite-plain colored"></i>
             SQLite
           </span>
         </div>
